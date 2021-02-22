@@ -3,7 +3,7 @@
 Appearance  - script for cnn
 datasets    - dataset for tracking
 demo        - script of tracking 
-keras_yolo3 - yolo v3 detector
+yolo        - yolo detector
 model       - script of multi vehicle tracking algorithm model
 tools       - script of training and tracking
 utils       - script of utilities
